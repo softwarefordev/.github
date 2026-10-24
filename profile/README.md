@@ -2,7 +2,7 @@
 
 I’m Jim. This is where I keep side-project tools for people who build software, especially while working with an AI assistant.
 
-Essays on technology, teamwork, and leadership are at [Jim’s Rules](https://jimsrules.com). Warning: opinions abound there. Viewpoints there are my own.
+Essays on technology, teamwork, and leadership are at [Jim’s Rules](https://jimsrules.com). Warning: opinions abound there. Viewpoints there are Jim's own.
 
 ## Projects
 
