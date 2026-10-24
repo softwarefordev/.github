@@ -2,7 +2,7 @@
 
 I’m Jim. This is where I keep side-project tools for people who build software, especially while working with an AI assistant.
 
-Essays on technology, teamwork, and leadership are at [Jim’s Rules](https://jimsrules.com). Warning: opinions ahead. Viewpoints there are my own.
+Essays on technology, teamwork, and leadership are at [Jim’s Rules](https://jimsrules.com). Warning: opinions abound there. Viewpoints there are my own.
 
 ## Projects
 
@@ -21,4 +21,7 @@ Both repositories are [MIT](https://github.com/softwarefordev/ai_chat_export/blo
 
 ## Writing
 
-[Jim’s Rules](https://jimsrules.com) is where those essays live. The focus is teams, people, and getting work done.
+[Jim’s Rules](https://jimsrules.com) is where Jim's essays live. The focus is teams, people, and getting work done.
+[jimleonardo.com](https://www.jimleonardo.com/) is where Jim's fiction lives.
+[https://softwarefordev.com/](https://softwarefordev.com/) is the homepage for softwarefordev.
+Reach Jim on [LinkedIn here](https://www.linkedin.com/in/jimleonardo).
