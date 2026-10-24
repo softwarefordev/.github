@@ -19,9 +19,9 @@ HTML is the default. The page follows the chat: the prompt you typed, then the a
 
 Both repositories are [MIT](https://github.com/softwarefordev/ai_chat_export/blob/main/LICENSE.MD) licensed.
 
-## Writing
+## Writing and Links
 
-[Jim’s Rules](https://jimsrules.com) is where Jim's essays live. The focus is teams, people, and getting work done.
-[jimleonardo.com](https://www.jimleonardo.com/) is where Jim's fiction lives.
-[https://softwarefordev.com/](https://softwarefordev.com/) is the homepage for softwarefordev.
-Reach Jim on [LinkedIn here](https://www.linkedin.com/in/jimleonardo).
+- [Jim’s Rules](https://jimsrules.com) is where Jim's essays live. The focus is teams, people, and getting work done.
+- [jimleonardo.com](https://www.jimleonardo.com/) is where Jim's fiction lives.
+- Reach Jim on [LinkedIn here](https://www.linkedin.com/in/jimleonardo).
+- [https://softwarefordev.com/](https://softwarefordev.com/) is the homepage for softwarefordev.
